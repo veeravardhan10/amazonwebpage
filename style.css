@@ -16,7 +16,7 @@
     width: 100px;
 }
 .logo{
-    background-image: url("./OIP.jpeg");
+    background-image: url("./photos/OIP.jpeg");
     background-size: cover;
     background-color: #0f1111;
     height: 50px;
@@ -107,7 +107,7 @@ span{
     color: white;
 }
 .hero-sec{
-    background-image: url("/img1.jpg");
+    background-image: url("./photos/img1.jpg");
     background-size: cover;
     height: 400px;
     
